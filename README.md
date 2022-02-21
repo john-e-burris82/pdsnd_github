@@ -13,6 +13,8 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 It required interactive user input to filter the data by city, month, and weekday. It further requests if the user wishes to view raw data and if the user wants to explore additional analysis.
 
+It was a good introductory project.
+
 ### Data used
 chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
