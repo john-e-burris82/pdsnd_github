@@ -25,3 +25,5 @@ washington.csv - Dataset containing all bikeshare information for the city of Wa
 ### Credits
 To solve the no gender or user data for the Washington Data:
 Ahmed Samy Mekkawy on Kaggle <https://www.kaggle.com/ahmedsamymekkawy/my-udacity-project-us-bikeshare-data>.
+Thanks to the instructors at Udacity for delivering valuable content.
+
